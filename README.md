@@ -12,6 +12,9 @@ Hello! I'm Lucas Paiva 🤠
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=paivalucass&count_private=true&show_icons=true&theme=radical)
 
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SUYASHPATIL400&show_icons=true&theme=radical)
+
+
 
 <!--
 **paivalucass/paivalucass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
