@@ -5,9 +5,8 @@ Hello! I'm Lucas Paiva 🤠
 
 📍 Currently living in Recife - Brazil
 
-📩 E-mail: lucaspaiva2805@gmail.com
-
-📸 Instagram: @lucascvpaiva
+📩 E-mail: lucaspaiva2805@gmail.com 
+            lacp@cin.ufpe.br
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=paivalucass&count_private=true&show_icons=true&theme=radical)
 
