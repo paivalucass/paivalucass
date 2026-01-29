@@ -1,4 +1,4 @@
-Hello! I'm Lucas Paiva 🤠
+Hello! I'm Lucas Paiva 
 
 
 📋 Computer Engineering student at Cin - UFPE
@@ -7,13 +7,6 @@ Hello! I'm Lucas Paiva 🤠
 
 📩 E-mail: lucaspaiva2805@gmail.com 
             lacp@cin.ufpe.br
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=paivalucass&count_private=true&show_icons=true&theme=radical)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paivalucass&show_icons=true&theme=radical)
-
-
 
 <!--
 **paivalucass/paivalucass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
