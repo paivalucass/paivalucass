@@ -3,7 +3,7 @@ Hello! I'm Lucas Paiva
 
 📋 Computer Engineering student at Cin - UFPE
 
-📍 Currently living in Recife - Brazil
+📍 Currently in Stuttgart - Germany
 
 📩 E-mail: lucaspaiva2805@gmail.com 
             lacp@cin.ufpe.br
